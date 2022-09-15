@@ -39,6 +39,7 @@ function App() {
       await getTheShows(searchItem);
       setLoading(false);
     })();
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [searchItem, filter]);
 
   return (
