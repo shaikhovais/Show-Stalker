@@ -1,6 +1,6 @@
 @font-face {
   font-family: "kizardregular";
-  src: url("file:///Users/ovaishk/Programming/React%20Project/Show%20Stalker/src/Fonts/kizard-webfont.woff2")
+  src: url("file:///Users/ovaishk/Programming/Projects/Show%20Stalker/src/Fonts/kizard-webfont.woff2")
     format("woff2");
   font-weight: normal;
   font-style: normal;
@@ -21,7 +21,7 @@ body {
 }
 
 .poster-main {
-  background-image: url(file:///Users/ovaishk/Downloads/Wallpaper-modified.jpeg);
+  background-image: url(../../Images/background-home.png);
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
