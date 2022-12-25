@@ -1,4 +1,4 @@
 
 Hosted Link of this website : https://showstalker.netlify.app/
 
-Created a website where users can search for their show using actor name or show name
+An app where users can search for TV Show using actors name or the name of the show
